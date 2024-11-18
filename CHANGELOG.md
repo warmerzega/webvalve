@@ -9,6 +9,10 @@ and this project aims to adhere to [Semantic Versioning](http://semver.org/spec/
 ### Added
 ### Removed
 
+## [2.1.0] - 2024-11-18
+### Changed
+- Update sinatra dependency to 4.0
+
 ## [2.0.2] - 2024-06-10
 ### Changed
 - Fix file permissions in bundled gem

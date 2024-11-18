@@ -1,10 +1,10 @@
 PATH
   remote: .
   specs:
-    webvalve (2.0.2)
+    webvalve (2.1.0)
       activesupport (>= 5.2.0)
-      sinatra (>= 1.4)
-      sinatra-contrib (>= 1.4)
+      sinatra (>= 4.0)
+      sinatra-contrib (>= 4.0)
       webmock (>= 2.0)
 
 GEM
